@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userID: 
+  title:
+  price:
+  weight:
+  deliveryDays:
+
+two:
+  userID:
+  title:
+  price:
+  weight:
+  deliveryDays:
